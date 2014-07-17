@@ -4,7 +4,7 @@
 
 int js;
 const int maxbjs = 10;
-
+ 
 int scnw;
 int scnh;
 
